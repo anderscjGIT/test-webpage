@@ -1,6 +1,11 @@
 
 
 body { margin: 0 15%; 
-	   background-color: lightgray; 
+	   background-color: lightgray;
+	   text-align: center; 
 	 }
 
+img{ width: 64rem; }
+
+
+fieldset { width: 64rem; }
